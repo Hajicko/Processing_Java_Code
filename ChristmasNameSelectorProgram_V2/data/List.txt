@@ -1,0 +1,10 @@
+Sophie 1 
+Olivia 0 
+Ethan 1 
+Amelia 1 
+Ava 0 
+Jackson 1 
+Mia 0 
+Charlotte 1 
+William 0 
+James 1
