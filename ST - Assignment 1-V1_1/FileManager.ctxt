@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FileManager
+comment0.text=\n\ Write\ a\ description\ of\ class\ FileManager\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=inFileDirectory
+comment1.target=java.lang.String[]\ loadFile(java.lang.String)
+comment2.params=inFileDirectory
+comment2.target=int\ findFileLineCount(java.lang.String)
+numComments=3

@@ -1,0 +1,12 @@
+ST2-2023 Assignment 2
+w,Who Am I,(Task 1)
+q,Exit /Quit
+r,Read SAIL2023 File
+e,Execute SAIL2023File,(Task 1)
+a,Execute all SAIL2023File
+s,Set File name
+d,Execute With Debug,(not assessed)
+t1,Debug and Testing,(not assessed)
+t2,Debug and Testing,(not assessed)
+t3,Debug and Testing,(not assessed)
+t4,Debug and Testing,(not assessed)

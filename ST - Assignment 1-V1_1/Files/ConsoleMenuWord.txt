@@ -1,0 +1,15 @@
+ST2-2023 Assignment 1
+E,Exit
+F,Read Flats,(Task 1)
+M,Read Meters,(Task 1)
+C,Compute BC Bill For one Flat,(Task 2)
+A,Compute BC Bill For All Flats,(Task 2)
+S,Sort the meter file into meter order,(Task 3)
+P,Prove meter file sort and find,(Task 3)
+O,Compute Full Bill For One Flat,(Task 4)
+5,Compute Full Bill For All Flats,(Task 5)
+0,Set Dev0 environment
+1,Set Dev1 environment
+2,Set Test environment
+3,Set prod environment
+Select Option: 
